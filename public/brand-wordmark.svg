@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" fill="none" role="img" aria-labelledby="title">
+  <title id="title">DD Dynamo Technology</title>
+  <defs>
+    <linearGradient id="white" x1="23" y1="19" x2="59" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#C9DAEE"/>
+    </linearGradient>
+    <linearGradient id="electric" x1="88" y1="18" x2="85" y2="79" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#25BDFF"/>
+      <stop offset="0.55" stop-color="#2767FF"/>
+      <stop offset="1" stop-color="#2944E5"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(5 10)">
+    <path fill="url(#electric)" fill-rule="evenodd" d="M79 18h21c22 0 29 14 19 33l-7 13c-6 11-16 15-33 15H56l23-61Zm9 13L75 66h7c9 0 14-3 18-10l7-13c4-8 1-12-8-12H88Z" clip-rule="evenodd"/>
+    <path fill="url(#white)" fill-rule="evenodd" d="M33 18h20c22 0 29 14 19 33l-7 13c-6 11-16 15-33 15H9l23-61h1Zm9 13L29 66h7c9 0 14-3 18-10l7-13c4-8 1-12-8-12H42Z" clip-rule="evenodd"/>
+    <path fill="#25BDFF" d="m62 66 7-19 6 8-8 21-5-10Z"/>
+  </g>
+  <text x="153" y="66" fill="#F5F8FF" font-family="Sora, Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="1.6">DD DYNAMO</text>
+  <text x="155" y="91" fill="#8291AD" font-family="Sora, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="7.3">TECHNOLOGY</text>
+</svg>
